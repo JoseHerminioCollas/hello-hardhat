@@ -11,5 +11,8 @@
     "Crypto"
   ],
   "author": "Jose Herminio Collas",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "hardhat": "^2.14.0"
+  }
 }
