@@ -1,0 +1,15 @@
+{
+  "name": "hello-hardhat",
+  "version": "1.0.0",
+  "description": "An implementation of a Hardhat tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "Hardhat",
+    "Crypto"
+  ],
+  "author": "Jose Herminio Collas",
+  "license": "ISC"
+}
