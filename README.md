@@ -1,4 +1,12 @@
-# Sample Hardhat Project
+# Hello Hardhat
+
+An implementation of a Hardhat Crypto Development Environment tutorial.
+
+[Hardhat](https://hardhat.org/)
+
+[Tutorial](https://hardhat.org/tutorial)
+
+## Sample Hardhat Project
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
 
